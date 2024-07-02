@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bi-apple-fill{
+    background-color: rgb(255, 203, 30);
+    font-size: 100px;
+
+}
+.bi-apple:hover{
+    color: rgb(0, 64, 255);
+    text-shadow: 5px 5px 65px yellow;
+}
+.bi-lightbulb-fill{
+    font-size: 400px;
+    margin-left: 100px;
+}
+.bi-lightbulb-fill:hover{
+    color: gold;
+    text-shadow: 5px 5px 65px yellow;
+    
+
+}
+body{
+    background: dodgerblue;
+}
